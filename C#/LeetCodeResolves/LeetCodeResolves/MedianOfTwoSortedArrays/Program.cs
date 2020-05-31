@@ -29,7 +29,7 @@ namespace LeetCodeResolves.MedianOfTwoSortedArrays
             int idx = arr.Count() / 2;
             if (arr.Length % 2 == 0)
             {
-                return (double)((double)(arr[idx] + arr[idx - 1]) / 2);
+                return (double)(arr[idx] + arr[idx - 1]) / 2;
             }
             else
             {
