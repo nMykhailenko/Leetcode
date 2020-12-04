@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.AddTwoNumbers.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.Reverse.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
