@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.LongestPalindrome.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.TwoSum.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
