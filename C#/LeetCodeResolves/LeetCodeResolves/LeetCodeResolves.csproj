@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.StringToInt_ATOI.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.IsPalindrome.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
