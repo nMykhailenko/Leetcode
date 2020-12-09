@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.IsPalindrome.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.MaxArea.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
