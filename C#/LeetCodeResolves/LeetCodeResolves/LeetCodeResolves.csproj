@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.MaxArea.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.FourDivisors.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
