@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.Arrays.SortedSquares.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.Arrays.DuplicateZeros.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
