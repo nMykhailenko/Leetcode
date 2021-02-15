@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.Arrays.DuplicateZeros.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.Arrays.CheckIfDoubleExist.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
