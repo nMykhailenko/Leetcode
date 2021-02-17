@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>LeetCodeResolves.Arrays.ValidMountainArray.Program</StartupObject>
+    <StartupObject>LeetCodeResolves.Arrays.SortByParity.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
