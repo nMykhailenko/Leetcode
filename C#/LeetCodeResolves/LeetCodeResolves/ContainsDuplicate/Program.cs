@@ -24,5 +24,6 @@ namespace LeetCodeResolves.ContainsDuplicate
             }
 
             return false;
-        }    }
+        }    
+    }
 }
